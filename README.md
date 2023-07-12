@@ -1,5 +1,5 @@
 - 👋 Hi there, i am Angelia Regina
-- 🔭 I’m currently working on ECADIN as Media Creative and Data Science Research Assistant in Universitas Pertamina
+- 🔭 I’m currently working in ECADIN as Media Creative and Data Science Research Assistant in Universitas Pertamina
 - 👀 I’m interested in Data Science especially in Machine Learning
 - 🌱 I’m currently learning about NLP, Dimensionality Reduction (PCA, LDA), and Deep Learning
 - 📫 you can check my linked in id : https://www.linkedin.com/in/angelia-regina/
