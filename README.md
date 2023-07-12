@@ -1,4 +1,4 @@
--👋 Hi there, i am Angelia Regina
+- 👋 Hi there, i am Angelia Regina
 - 🔭 I’m currently working on ECADIN as Media Creative and Data Science Research Assistant in Universitas Pertamina
 - 👀 I’m interested in Data Science especially in Machine Learning
 - 🌱 I’m currently learning about NLP, Dimensionality Reduction (PCA, LDA), and Deep Learning
